@@ -1,6 +1,6 @@
 body{
-    background-color: #4f5d75;
-    color: #2d3142;
+    background-color: #ffd100;
+    color: black;
     font-family: 'Lilita One', cursive;
 }
 
@@ -14,7 +14,7 @@ div{
 }
 
 h1{
-    color: #adb5bd;
+    color: black;
     text-align: center;
     
 }
@@ -95,12 +95,12 @@ input{
 
   #light:has(input:checked) {
     background-color: #fffcf2;
-    color: #ccc5b9;
+    color: #eeba0b;
 }
 
 #dark:has(input:checked){
-    background-color: #2d3142;
-    color: #ccc5b9;
+    background-color: black;
+    color: #ffd100;
 }
 
   #dark{
